@@ -19,11 +19,6 @@
 - Graph Neural Network (GNN)
 
 
-
------
-
-
-
 ### Languages and Tools
 <div >
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -32,3 +27,5 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=Python&logoColor=white"/>.
 </div>
+
+(a href="https://github.com/jangeunjo99/Portfolio"> Show Details </a>
