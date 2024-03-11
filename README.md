@@ -28,4 +28,6 @@
   <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat&logo=Python&logoColor=white"/>.
 </div>
 
-(a href="https://github.com/jangeunjo99/Portfolio"> Show Details </a>
+<br/>
+<br/>
+<a href="https://github.com/jangeunjo99/Portfolio"> Show Details </a>
