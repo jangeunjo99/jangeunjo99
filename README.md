@@ -30,4 +30,6 @@
 
 <br/>
 <br/>
-<a href="https://github.com/jangeunjo99/Portfolio"> Show Details </a>
+
+
+## <a href="https://github.com/jangeunjo99/Portfolio"> >> Portfolio <<  </a>  
