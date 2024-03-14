@@ -17,7 +17,7 @@
 - Sequential Recommendation System
 - Transformer / Attention Mechnism
 - Graph Neural Network (GNN)
-
+- 진행중인 연구 : Session-based Recommendation system with Side Information  
 
 ### Languages and Tools
 <div >
