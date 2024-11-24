@@ -1,10 +1,8 @@
 # 🐰 장은조 (Jang, Eun Jo)  
-### Data Scientist
+## Data Scientist
 
 - **Contact:** wkddmswh99@sookmyung.ac.kr  
-
 - **LinkedIn:** [www.linkedin.com/in/eunjo](www.linkedin.com/in/eunjo)  
-
 - **BLOG:** [Eunjo's Notes](https://joyous-shell-10e.notion.site/JoJo-s-BLOG-fb208bf1aa7b4ea49feac6ca90eaab41)  
 
 <br>
